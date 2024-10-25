@@ -14,6 +14,10 @@
 - Add support for Cursor (via @takyshu98)
 - Add support for PHPStorm 2024.1 (via @edwinvdpol)
 - Add support for WezTerm (via @asm0dey)
+- Add Linux support for PHPStorm,GoLang,WebStorm,PyCharm,PyCharmCE (via @qcgzxw)
+- Add Linux support for Spotify (via @qcgzxw)
+- Add Linux support for Altair Graphql Client (via @qcgzxw)
+- Add Linux support for Qt Project (via @qcgzxw)
 
 ## Mackup 0.8.40
 
